@@ -1,0 +1,29 @@
+# Climate: varies from tropical in south to cool temperate in north 
+
+tropical = {
+
+}
+
+arid = {
+
+}
+
+arctic = {
+
+}
+
+mild_winter = {
+
+}
+
+normal_winter = {
+
+}
+
+severe_winter = {
+
+}
+
+impassable = {
+
+}

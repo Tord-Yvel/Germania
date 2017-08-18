@@ -1,0 +1,8 @@
+# Land Areas:
+# A land area is 3 - 10 provinces
+
+
+# Sea Areas:
+# No restriction on size.
+
+

@@ -1,0 +1,8 @@
+# A province can only belong to one region!
+
+# Land Regions
+random_new_world_region = {
+}
+
+# Sea Regions
+

@@ -1,8 +1,30 @@
 # A province can only belong to one region!
 
-# Land Regions
-random_new_world_region = {
+
+Västra_Götaland = {
+	areas = {
+		Värend_area
+		Finnheden_area
+		Halland_area
+  }
 }
 
-# Sea Regions
+Östra_Götaland = {
+	areas = {
+		Finspånga_area
+		Västanstång_area
+		Östanstång_area
+    Möre_area
+    Tveta_area
+	}
+}
 
+Skåneland = {
+	areas = {
+		Blecing_area
+		Västanstång_area
+		Östanstång_area
+    Möre_area
+    Tveta_area
+	}
+}

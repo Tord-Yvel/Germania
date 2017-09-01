@@ -1,1 +1,8 @@
 # A region can only belong to one super region.
+
+Götaland_superregion = {
+  Västra_Götaland
+  Östra_Götaland
+  Skåneland
+}
+

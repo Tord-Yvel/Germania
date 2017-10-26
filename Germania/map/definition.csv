@@ -1,46 +1,46 @@
 province;red;green;blue;x;x
-1;;;;Stora Forsa
-2;;;;Finspånga
-3;;;;Kolmark
-4;;;;Aska
-5;;;;Lionga
-6;;;;Herrebro
-7;;;;Vikbolandet
-8;;;;Götavirke
-9;;;;Lysinger
-10;;;;Hamarkinda
-11;;;;Gelstring
-12;;;;Vifolcha
-13;;;;Northern Tjust
-14;;;;Wyst
-15;;;;Ydre
-16;;;;Kinda
+1;255;242;0;Stora Forsa
+2;255;201;14;Finspånga
+3;34;177;76;Kolmark
+4;240;60;30;Aska
+5;127;127;127;Lionga
+6;255;174;201;Herrebro
+7;181;230;29;Vikbolandet
+8;255;127;39;Götavirke
+9;128;0;128;Lysinger
+10;255;120;39;Hamarkinda
+11;0;162;232;Gelstring
+12;200;191;231;Vifolcha
+13;255;242;30;Northern Tjust
+14;255;219;243;Wyst
+15;255;59;170;Ydre
+16;60;90;170;Kinda
 17;;;;Vedbo
-18;;;;Tjust
+18;128;0;170;Tjust
 19;;;;Fiaerae
 20;;;;Mark
-21;;;;Kinda
-22;;;;Moa
-23;;;;Thwetum
-24;;;;Sighwidhe
-25;;;;Dudhraholth
+21;;;;Kind
+22;127;127;127;Moa
+23;16;99;12;Thwetum
+24;224;135;69;Sighwidhe
+25;255;59;190;Dudhraholth
 26;;;;Förlanda
-27;;;;Waestbo
+27;121;0;82;Waestbo
 28;;;;Finnheden
 29;;;;Njudung
-30;;;;Asboa land
+30;138;72;23;Asboa land
 31;;;;Getakir
 32;;;;Hylte
 33;;;;Norrwithinga
-34;;;;Handbörd
+34;243;209;184;Handbörd
 35;;;;Ahelmir
 36;;;;Sunnerbo
 37;;;;Rythaholm
 38;;;;Opwithinga
-39;;;;Northern Meore
+39;69;36;12;Northern Meore
 40;;;;Werendia
 41;;;;Asgutsrum
-42;;;;Southern Meore
+42;220;122;50;Southern Meore
 43;;;;Lystaer
 44;;;;Elleholm
 45;;;;Vång

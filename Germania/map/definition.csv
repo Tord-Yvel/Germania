@@ -15,34 +15,34 @@ province;red;green;blue;x;x
 14;255;219;243;Wyst
 15;255;59;170;Ydre
 16;60;90;170;Kinda
-17;;;;Vedbo
+17;213;240;57;Vedbo
 18;128;0;170;Tjust
-19;;;;Fiaerae
-20;;;;Mark
-21;;;;Kind
+19;60;240;120;Fiaerae
+20;213;240;223;Mark
+21;120;240;60;Kind
 22;127;127;127;Moa
 23;16;99;12;Thwetum
 24;224;135;69;Sighwidhe
 25;255;59;190;Dudhraholth
-26;;;;Förlanda
+26;220;240;120;Förlanda
 27;121;0;82;Waestbo
-28;;;;Finnheden
-29;;;;Njudung
+28;160;240;180;Finnheden
+29;120;240;180;Njudung
 30;138;72;23;Asboa land
-31;;;;Getakir
-32;;;;Hylte
-33;;;;Norrwithinga
+31;220;240;60;Getakir
+32;40;240;180;Hylte
+33;13;240;150;Norrwithinga
 34;243;209;184;Handbörd
-35;;;;Ahelmir
-36;;;;Sunnerbo
-37;;;;Rythaholm
-38;;;;Opwithinga
+35;180;240;60;Ahelmir
+36;20;240;120;Sunnerbo
+37;20;240;60;Rythaholm
+38;160;0;181;Opwithinga
 39;69;36;12;Northern Meore
-40;;;;Werendia
-41;;;;Asgutsrum
+40;133;240;90;Werendia
+41;120;80;90;Asgutsrum
 42;220;122;50;Southern Meore
-43;;;;Lystaer
-44;;;;Elleholm
-45;;;;Vång
-46;;;;Torrum
+43;90;240;120;Lystaer
+44;60;240;120;Elleholm
+45;100;240;60;Vång
+46;200;240;120;Torrum
 
